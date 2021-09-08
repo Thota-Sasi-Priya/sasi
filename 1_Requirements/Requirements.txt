@@ -22,12 +22,15 @@ The ultimate strength of Calculators is its innovative and user-friendly product
 4)Threats:- 
 Although Casio enjoys a substantial competitive advantage in the calculator business, strong competitors such as Nikon, Fastrack, etc. are emerging daily and gaining popularity among people. Also, due to the stereotype image for “Only a calculator brand,” it’s getting hard for Casio to enter sports and other tech-product lines as there’re already many strong brands are ruling. Their slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
+high level requirements:
   HLR1	Switch on the calculator
   HLR2	Perform basic operations (+,-,*,/)
   HLR3	Performing logarithms, factorial, power, etc
-        LLR1	Showcase history
-        LLR2	 clear
-        LLR3	Switch off the calculator
+  
+  low level requirements:
+   LLR1	Showcase history
+   LLR2	 clear
+   LLR3	Switch off the calculator
 	                      
 
 
